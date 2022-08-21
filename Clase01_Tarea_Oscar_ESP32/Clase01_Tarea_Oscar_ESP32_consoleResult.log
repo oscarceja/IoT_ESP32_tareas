@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------------------
+------------------Oscar. Tarea Clase01 WiFi Connection with ESP32--------------------
+
+**WiFi Neighboring Scan in 2.4GHz**
+
+Number of Scaned SSIDs: 17
+1) SSID: INFINITUM0001	BSSID: A8:54:A2:26:16:B0	RSSI: -35 dBm
+2) SSID: INFINITUM14AE	BSSID: 50:4E:DC:86:C6:C8	RSSI: -43 dBm
+3) SSID: INFINITUM0044	BSSID: 34:21:09:73:8B:E9	RSSI: -49 dBm
+4) SSID: INFINITUM0044	BSSID: 34:21:09:73:8B:F1	RSSI: -53 dBm
+5) SSID: SMART_OF	BSSID: 50:4E:DC:58:B4:EC	RSSI: -64 dBm
+6) SSID: INFINITUM00B7_2.4	BSSID: 50:4E:DC:86:70:05	RSSI: -71 dBm
+7) SSID: INFINITUMC6B4	BSSID: 54:A6:19:B6:DB:04	RSSI: -74 dBm
+8) SSID: SMART_LV	BSSID: 50:4E:DC:56:7D:B4	RSSI: -79 dBm
+9) SSID: INFINITUMC1E3	BSSID: 50:4E:DC:86:1C:38	RSSI: -81 dBm
+10) SSID: INFINITUMBC36	BSSID: 54:A6:19:B6:5D:1C	RSSI: -84 dBm
+11) SSID: IZZI-B779	BSSID: F0:AF:85:9A:5B:70	RSSI: -84 dBm
+12) SSID: IZZI-22BC	BSSID: 70:4F:B8:72:17:A2	RSSI: -86 dBm
+13) SSID: Totalplay-04A5	BSSID: 90:16:BA:D1:2C:C0	RSSI: -88 dBm
+14) SSID: INFINITUM0208	BSSID: A8:E8:1E:3B:03:D8	RSSI: -88 dBm
+15) SSID: INFINITUMA628_2.4	BSSID: F0:68:65:F7:8F:F9	RSSI: -90 dBm
+16) SSID: Totalplay-04A5_EXT	BSSID: 80:3F:5D:85:17:96	RSSI: -92 dBm
+17) SSID:      CHULA	BSSID: 8C:09:F4:7C:69:00	RSSI: -93 dBm
+
+Connecting to 2.4GHz WiFi, SSID: INFINITUM0001 with Static IP Address 
+.....
+WiFi Status: 3  Connected to WiFi!!!
+
+-----Settings of the STA (station): 
+SSID...............: INFINITUM0001
+MAC Address........: A4:CF:12:9B:59:30
+BSSID (MAC AP).....: A8:54:A2:26:16:B0
+Received Signal Strength (RSSI): -35 dBm
+Gateway IP.........: 192.168.1.254
+Static IP Address..: 192.168.1.170
+Subnet Mask........: 255.255.255.0
+Primary DNS IP.....: 0.0.0.0
+Secondary DNS IP...: 0.0.0.0
+
+
+
